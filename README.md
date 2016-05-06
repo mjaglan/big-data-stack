@@ -1,5 +1,7 @@
 # Big Data Analytics Stack
 
+Note: for latest version refer the [futuresystems/big-data-stack](https://github.com/futuresystems/big-data-stack)
+
 Provides a set of Ansible playbooks to deploy a Big Data analytics
 stack on top of Hadoop/Yarn.
 
